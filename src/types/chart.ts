@@ -1,0 +1,1 @@
+export type canvasTextAlign = "center" | "end" | "left" | "right" | "start"
